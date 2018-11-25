@@ -1,8 +1,8 @@
-Numpy and Python Basics
+# Numpy and Python Basics
 
 Hello Everyone! This is a little notebook that I made with the requirements for numpy in the second lesson of the Facebook Pytorch Challege. Feel free to ad and contribute.
 
-Requirements
+### Requirements
 
 1. python >= 3.6
 2. jupyter notebook
